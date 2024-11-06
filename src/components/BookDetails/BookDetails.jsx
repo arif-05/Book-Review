@@ -7,7 +7,7 @@ const BookDetails = () => {
   const book = books.find((book) => book.bookId === idInt);
 
   const {
-    bookId,
+    
     bookName,
     author,
     image,
